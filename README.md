@@ -14,7 +14,7 @@ Horiseon is a marketing agency that serves other business in many areas of marke
 
 ## Image
 <figure align="center">
-  <img src="./assets/images/HM_HtmlPg.png"  width="400" >
+  <img src="./assets/images/HM_HtmlPg.png"  width="700" >
 </figure>
 
 ## Website
